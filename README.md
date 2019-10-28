@@ -18,7 +18,7 @@
 
 ### App Walkthough GIF
 
-<img src="Flicker1.gif" width=250><br>
+<img src="2Flicker.gif" width=250><br>
 
 ### Notes
 
